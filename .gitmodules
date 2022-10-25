@@ -1,0 +1,6 @@
+[submodule "recipe-hub-fe"]
+	path = recipe-hub-fe
+	url = https://github.com/hoangtrung1801/recipe-hub-fe
+[submodule "recipe-hub-be"]
+	path = recipe-hub-be
+	url = https://github.com/hoangtrung1801/recipe-hub-be
